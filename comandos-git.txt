@@ -1,0 +1,15 @@
+1.- Identificarme.
+	git config --global user.name "username de github"
+	git config --global user.email "correo de github"
+2.- Inicializar.
+	git init
+3.- Poner el link.
+	git remote add origin https://github.com/jhonatanfrank/comandos-git.git
+4.- Para ver estados.
+	git status
+5.- Agregar archivos
+	git add .
+6.- Agregando comentario
+	git commit -m "comentario"
+7.- Confirmando
+	git push origin master
