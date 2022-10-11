@@ -13,3 +13,18 @@
 	git commit -m "comentario"
 7.- Confirmando
 	git push origin master
+_____________________________________
+Clonar repositorio:
+1.- Clonar
+	git clone link
+Actualizar repositorio:
+1.- Inicializar
+	git init
+2.- Agregar
+	git add .
+3.- Comentar
+	git commit -m "mensaje"
+4.- Agregar 
+	git remote add origin link
+5.- Actualizar
+	git push origin master
