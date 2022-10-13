@@ -20,11 +20,12 @@ Clonar repositorio:
 Actualizar repositorio:
 1.- Inicializar
 	git init
-2.- Agregar
-	git add .
-3.- Comentar
+2.- Poner esto
+	git fetch
+	git pull
+3.- Agregar
+	git add *
+4.- Comentar
 	git commit -m "mensaje"
-4.- Agregar 
-	git remote add origin link
 5.- Actualizar
-	git push origin master
+	git push
